@@ -1,4 +1,4 @@
-'use strict';
+Z'use strict';
 const OPT = {
     "user" : "mone", //后台密码请修改
     "password" : "456123Ab", //后台密码
